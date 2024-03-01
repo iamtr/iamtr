@@ -4,8 +4,16 @@ I'm a Year 2 Computer Science student at the National University of Singapore (N
 
 ## 🛠 Projects
 
-- **Orbital Chess**: A unique twist on traditional chess, developed using Unity and C#. It supports multiplayer, via Photon Engine [Click here to play!](https://iamtr.itch.io/orbital-chess)
-- **Data Analysis Projects**: A [link] (https://github.com/iamtr/Data-Analysis-Projects) to some data analysis projects that I have done
+### **Orbital Chess**: 
+A unique twist on traditional chess, developed using Unity and C#. It supports multiplayer, via Photon Engine [Click here to play!](https://iamtr.itch.io/orbital-chess)
+
+<img src="https://github.com/iamtr/iamtr/assets/52852142/5a3359ed-d154-41d6-89d6-b1fc085577d5" width="600">
+
+
+### **Data Analysis Projects**: 
+A [link] (https://github.com/iamtr/Data-Analysis-Projects) to some data analysis projects that I have done
+
+<img src="https://github.com/iamtr/iamtr/assets/52852142/3e7c1732-e666-489b-b72e-935429ad66ce" width="600">
 
 ## 🌱 I’m currently learning ...
 
@@ -18,5 +26,5 @@ I'm a Year 2 Computer Science student at the National University of Singapore (N
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my projects and reach out if you're interested in collaborating.
+[![Jet's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtr)](https://github.com/anuraghazra/github-readme-stats)
 
