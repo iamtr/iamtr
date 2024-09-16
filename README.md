@@ -1,6 +1,6 @@
 # Hello, I'm Jet! 👋
 
-I'm a Year 2 Computer Science student at the National University of Singapore (NUS), specializing in cybersecurity and bioinformatics. 
+I'm a Year 3 Computer Science student at the National University of Singapore (NUS), specializing in cybersecurity and bioinformatics. 
 
 ## 🛠 Projects
 
